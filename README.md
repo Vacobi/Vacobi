@@ -1,4 +1,6 @@
-## Hi there 👋
+## Student of Volgograd State Technical University.
+Programming on Java, C++, Python.
+Now learning ML and CV.
 
 <!--
 **Vacobi/Vacobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
