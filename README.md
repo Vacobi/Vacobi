@@ -1,5 +1,5 @@
 ## Student of Volgograd State Technical University.
-Programming on Java, C++, Python.
+Programming on Java, C++.
 Now learning ML and CV.
 
 <!--
