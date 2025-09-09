@@ -1,6 +1,5 @@
 ## Student of Volgograd State Technical University.
-Programming on Java, C++.
-Now learning ML and CV.
+ts backend developer (ex Java dev).
 
 <!--
 **Vacobi/Vacobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
